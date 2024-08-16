@@ -19,8 +19,7 @@
 
 2. **Установка зависимостей:**
     ```bash
-    pip install aiogram
-    pip install openai
+    pip3 install aiogram openai
     ```
 
 3. **Настройка бота:**
