@@ -19,7 +19,8 @@
 
 2. **Установка зависимостей:**
     ```bash
-    pip install -r requirements.txt
+    pip install aiogram
+    pip install openai
     ```
 
 3. **Настройка бота:**
